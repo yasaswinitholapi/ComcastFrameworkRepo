@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-06T17:49:32 IST" name="Default suite" finished-at="2024-06-06T17:50:19 IST" duration-ms="46792">
+    <groups>
+      <group name="regressionTest">
+        <method signature="GenercutltesaEg1.CreateOrganzatonWthndutsrygenerceg2()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" name="CreateOrganzatonWthndutsrygenerceg2" class="com.comcast.crm.orgtest.GenercutltesaEg1"/>
+        <method signature="GenercutltesaEg1.Genercegtestase3CreateOrganzaton()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" name="Genercegtestase3CreateOrganzaton" class="com.comcast.crm.orgtest.GenercutltesaEg1"/>
+      </group> <!-- regressionTest -->
+      <group name="smokeTest">
+        <method signature="GenercutltesaEg1.GenercutltesaEg12()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" name="GenercutltesaEg12" class="com.comcast.crm.orgtest.GenercutltesaEg1"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-06-06T17:49:32 IST" name="Default test" finished-at="2024-06-06T17:50:19 IST" duration-ms="46792">
+      <class name="com.comcast.crm.orgtest.GenercutltesaEg1">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:49:32 IST" name="configBS" finished-at="2024-06-06T17:49:32 IST" duration-ms="274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:49:32 IST" name="configBC" finished-at="2024-06-06T17:49:34 IST" duration-ms="1821" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:49:34 IST" name="configBM" finished-at="2024-06-06T17:49:38 IST" duration-ms="4284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="CreateOrganzatonWthndutsrygenerceg2()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:49:38 IST" name="CreateOrganzatonWthndutsrygenerceg2" finished-at="2024-06-06T17:49:48 IST" duration-ms="10086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CreateOrganzatonWthndutsrygenerceg2 -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:49:48 IST" name="configAM" finished-at="2024-06-06T17:49:50 IST" duration-ms="1481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:49:50 IST" name="configBM" finished-at="2024-06-06T17:49:53 IST" duration-ms="3053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="Genercegtestase3CreateOrganzaton()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:49:53 IST" name="Genercegtestase3CreateOrganzaton" finished-at="2024-06-06T17:50:03 IST" duration-ms="9511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Genercegtestase3CreateOrganzaton -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:50:03 IST" name="configAM" finished-at="2024-06-06T17:50:04 IST" duration-ms="1481" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:50:04 IST" name="configBM" finished-at="2024-06-06T17:50:07 IST" duration-ms="3248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="GenercutltesaEg12()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:50:07 IST" name="GenercutltesaEg12" finished-at="2024-06-06T17:50:17 IST" duration-ms="9815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GenercutltesaEg12 -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:50:17 IST" name="configAM" finished-at="2024-06-06T17:50:19 IST" duration-ms="1776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:50:19 IST" name="configAC" finished-at="2024-06-06T17:50:19 IST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.comcast.crm.orgtest.GenercutltesaEg1@367ffa75]" started-at="2024-06-06T17:50:19 IST" name="configAS" finished-at="2024-06-06T17:50:19 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.comcast.crm.orgtest.GenercutltesaEg1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
